@@ -1,0 +1,25 @@
+{
+    "name": "iyamk/perfectmoney-api",
+    "type": "library",
+    "license": "GPL-3.0",
+    "require": {
+        "php": ">=7.2.5",
+        "guzzlehttp/guzzle": "^7.0",
+        "paquettg/php-html-parser": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "PM\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "iyamk",
+            "email": "105396562+iyamk@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "scripts": {
+        "gendoc": "phpdoc -t doc -d src/"
+    }
+}
