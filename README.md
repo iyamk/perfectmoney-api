@@ -59,6 +59,10 @@ $r = $pm->getBalance();
 print_r($r);
 ```
 
+# Documentation
+
+Here: https://iyamk.github.io/perfectmoney-api/
+
 # Contributing
 
 Contribute with us via pull request
