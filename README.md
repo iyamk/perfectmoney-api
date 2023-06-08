@@ -20,7 +20,7 @@ First you need a configuration file. Create a config_pm.php file in a convenient
 require_once __DIR__ . '/vendor/autoload.php';
 
 # Instance creation
-$pm = new \PM\Api('U12345678', 'alternate passphrase', 'https://example.com/status', 'https://example.com/done', 'https://example.com/fail', 'My corp.', 'your account id', 'account password');
+$pm = new \PM\Api('your wallet number', 'alternate passphrase', 'https://example.com/status_url', 'https://example.com/done_url', 'https://example.com/fail_url', 'My corp.', 'your account id', 'account password');
 
 ```
 
