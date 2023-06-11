@@ -18,7 +18,7 @@
             "email": "105396562+iyamk@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "scripts": {
         "gendoc": "phpdoc -t doc -d src/"
     }
