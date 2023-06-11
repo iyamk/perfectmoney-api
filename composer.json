@@ -1,11 +1,12 @@
 {
     "name": "iyamk/perfectmoney-api",
+    "description": "This library is suitable for any project and aims to be simple and easy to use",
     "type": "library",
     "license": "GPL-3.0",
     "require": {
         "php": ">=7.2.5",
         "guzzlehttp/guzzle": "^7.0",
-        "paquettg/php-html-parser": "^2.2"
+        "paquettg/php-html-parser": "^3.1"
     },
     "autoload": {
         "psr-4": {
