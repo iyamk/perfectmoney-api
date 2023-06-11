@@ -1,5 +1,6 @@
 {
     "name": "iyamk/perfectmoney-api",
+    "description": "This library is suitable for any project and aims to be simple and easy to use",
     "type": "library",
     "license": "GPL-3.0",
     "require": {
