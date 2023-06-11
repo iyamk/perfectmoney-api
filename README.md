@@ -61,7 +61,7 @@ print_r($r);
 
 # Documentation
 
-Here: https://iyamk.github.io/perfectmoney-api/
+Here: https://iyamk.github.io/perfectmoney-api/doc
 
 # Contributing
 
